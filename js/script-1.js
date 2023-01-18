@@ -238,3 +238,26 @@
 // console.log(makeArray(["Earth", "Jupiter"], ["Neptune", "Uranus", "Venus"], 0));
 
 // ------------------------------task 17------------------------------
+
+// const start = 3;
+// const end = 7;
+
+// for (let i = start; i <= end; i += 1) { // Change this line
+//   console.log(i);
+// }
+
+// ------------------------------task 18------------------------------
+
+function calculateTotal(number) {
+ // Change code below this line
+    
+
+  // Change code above this line
+}
+
+console.log(calculateTotal(1));
+console.log(calculateTotal(3));
+console.log(calculateTotal(7));
+console.log(calculateTotal(18));
+console.log(calculateTotal(24));
+console.log(calculateTotal());
